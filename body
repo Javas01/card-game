@@ -1,0 +1,23 @@
+<body>
+<div style="float:center; font-size:43px; text-align: center" id="scoreBoard" ;="">
+			<div>
+			Player One Score: <span id="playerOneScore" ;="" style="border:ridge">0</span>
+			</div>
+			<div>
+			Player Two Score: <span id="playerTwoScore" ;="" style="border:ridge">0</span>
+			</div>
+		</div><table id="cardTable" border="1px" ;="" style="margin:auto">
+        
+        <tbody><tr style="clear: both"> <td><img name="1" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="2" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="3" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="4" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td></tr><tr style="clear: both"> <td><img name="5" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="6" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="7" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="8" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td></tr><tr style="clear: both"> <td><img name="9" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="10" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="11" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="12" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td></tr><tr style="clear: both"> <td><img name="13" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="14" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="15" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td> <td><img name="16" class="card" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB22Z0wh6wI5JRaixR-l5s7Y5LU4ZEsh7ACPm3UNul-UNhBLSx"></td></tr></tbody></table>
+				<p>
+					<a href="http://www.msiddeeq.com/jsabree01">Home</a>
+				</p>
+				<p>
+					<a href="http://www.msiddeeq.com/jsabree01/hawkcomix.html">My Comix Buisness (Working Process)</a>
+				</p>
+				<p>
+					<a href="/contact">Contact</a>
+				</p>
+				© Copyrighted  by Jawwaad Sabree, all rights reserved
+
+</body>
